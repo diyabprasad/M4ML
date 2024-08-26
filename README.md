@@ -1,10 +1,6 @@
-# Mathematics for Machine Learning and Data Science Specialization - Coursera
+# DeepLearning.AI's Mathematics for Machine Learning and Data Science Specialization
 
-![title-banner](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera/assets/77543865/42742826-89a3-41c4-aa6a-6d0f83b260b6)
-
-Mathematics for Machine Learning and Data Science Specialization offered by deeplearning.ai , instructed by Luis Serrano on Coursera.
-
-<hr/>
+Course materials for Mathematics for DeepLearning.AI's **Machine Learning and Data Science Specialization**, taught by **Luis Serrano** on Coursera.
 
 <br/>
 
@@ -47,9 +43,7 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-### [Certificate Of Completion](https://coursera.org/share/4dcac0c68e690f1947739cc62143dc78)
 
-<hr/>
 
 <br/>
 
@@ -87,9 +81,7 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-### [Certificate Of Completion](https://coursera.org/share/5fa3a336a4fdfcb89879b8b828f8abbe)
 
-<hr/>
 
 <br/>
 
@@ -128,10 +120,6 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-### [Certificate Of Completion](https://coursera.org/share/10ba65d22dca9278c5119d7511bcec0b)
 
-<hr/>
 
 <br/>
-
-## [Specialization Certificate](https://coursera.org/share/ea6107e80f98b4d1f05b9263413f39c6)
